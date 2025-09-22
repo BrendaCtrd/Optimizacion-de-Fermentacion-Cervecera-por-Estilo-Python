@@ -1,0 +1,2 @@
+Recipe_ID,Beer_Style,Fermentation_Time,Temperature,pH_Level,Gravity,Bitterness,Color,Brewhouse_Efficiency,Total_Loss,ratio_1,ratio_2,ratio_3,ABV_pred,Quality_pred
+Pilsner_MAXQ_20250922_1713,Pilsner,12.036,9.434,3.989,1.199,27.503,10.948,82.155,10.369,0.472,0.368,0.16,5.151,10.388
